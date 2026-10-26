@@ -1,0 +1,11 @@
+{
+  "versione": "2026-10-26",
+  "norme": [
+    { "codice": "CEI EN IEC 62305-1", "titolo": "Protezione contro i fulmini. Parte 1: Principi generali", "edizione": "2025-02", "stato": "vigente", "sostituitaDa": null, "obbligatoria": true, "mostra": true },
+    { "codice": "CEI EN IEC 62305-2", "titolo": "Protezione contro i fulmini. Parte 2: Gestione del rischio", "edizione": "2025-02", "stato": "vigente", "sostituitaDa": null, "obbligatoria": true, "mostra": true },
+    { "codice": "CEI EN IEC 62305-3", "titolo": "Protezione contro i fulmini. Parte 3: Danno materiale alle strutture e pericolo per le persone", "edizione": "2025-02", "stato": "vigente", "sostituitaDa": null, "obbligatoria": true, "mostra": true },
+    { "codice": "CEI EN IEC 62305-4", "titolo": "Protezione contro i fulmini. Parte 4: Impianti elettrici ed elettronici nelle strutture", "edizione": "2025-02", "stato": "vigente", "sostituitaDa": null, "obbligatoria": true, "mostra": true },
+    { "codice": "CEI 81-29", "titolo": "Linee guida per l'applicazione delle norme CEI EN 62305", "edizione": "2020-11", "stato": "vigente", "sostituitaDa": null, "obbligatoria": false, "mostra": false },
+    { "codice": "CEI EN IEC 62858", "titolo": "Densità di fulminazione. Reti di localizzazione fulmini (LLS) - Principi generali", "edizione": "2020-05", "stato": "vigente", "sostituitaDa": null, "obbligatoria": true, "mostra": true }
+  ]
+}
